@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260305-183149-pyxy",
+      "title": "Flowsn, Strádùs",
+      "commanders": [
+        "Flowsn",
+        "Strádùs"
+      ],
+      "dateStart": "2026-03-05T18:31:49.000Z",
+      "dateEnd": "2026-03-05T20:37:27.000Z",
+      "dateLabel": "05/03/2026 18:31:49 - 05/03/2026 20:37:27",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260305-183149-pyxy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260305-064052-f84b",
       "title": "Speedy Morales",
       "commanders": [
