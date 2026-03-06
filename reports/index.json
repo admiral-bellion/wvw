@@ -1,10 +1,39 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Amethyst",
+    "paletteId": "Obsidian",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260306-181343-izlu",
+      "title": "Human Tamed A Cat, Just Mad N Fluffy",
+      "commanders": [
+        "Human Tamed A Cat",
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-06T18:13:43.000Z",
+      "dateEnd": "2026-03-06T20:23:48.000Z",
+      "dateLabel": "06/03/2026 18:13:43 - 06/03/2026 20:23:48",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260306-181343-izlu",
+      "summary": {
+        "borderlandsPct": 0.19444444444444445,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20260305-183149-pyxy",
       "title": "Flowsn, Strádùs",
