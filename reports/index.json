@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260307-183638-9w9e",
+      "title": "Flowsn, Yoloola",
+      "commanders": [
+        "Flowsn",
+        "Yoloola"
+      ],
+      "dateStart": "2026-03-07T18:36:38.000Z",
+      "dateEnd": "2026-03-07T21:03:17.000Z",
+      "dateLabel": "07/03/2026 18:36:38 - 07/03/2026 21:03:17",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260307-183638-9w9e",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 44,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260306-181343-izlu",
       "title": "Human Tamed A Cat, Just Mad N Fluffy",
       "commanders": [
