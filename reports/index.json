@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260314-183209-gtn1",
+      "title": "Flowsn, Human Tamed A Cat",
+      "commanders": [
+        "Flowsn",
+        "Human Tamed A Cat"
+      ],
+      "dateStart": "2026-03-14T18:32:09.000Z",
+      "dateEnd": "2026-03-14T21:15:07.000Z",
+      "dateLabel": "14/03/2026 18:32:09 - 14/03/2026 21:15:07",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260314-183209-gtn1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 54,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260314-183209-p85h",
       "title": "Flowsn, Human Tamed A Cat",
       "commanders": [
