@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260315-204325-gr5c",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-15T20:43:25.000Z",
+      "dateEnd": "2026-03-15T22:00:25.000Z",
+      "dateLabel": "15/03/2026 20:43:25 - 15/03/2026 22:00:25",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260315-204325-gr5c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 29,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260314-183209-gtn1",
       "title": "Flowsn, Human Tamed A Cat",
       "commanders": [
