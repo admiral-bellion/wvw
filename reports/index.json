@@ -1,10 +1,43 @@
 {
   "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Obsidian",
+    "ui": "modern",
+    "paletteId": "Dark Pearl",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260318-191537-5nzy",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-18T19:15:37.000Z",
+      "dateEnd": "2026-03-18T21:00:42.000Z",
+      "dateLabel": "18/03/2026 19:15:37 - 18/03/2026 21:00:42",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260318-191537-5nzy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 18
+      }
+    },
     {
       "id": "20260315-204325-gr5c",
       "title": "Just Mad N Fluffy",
