@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260320-181322-eekv",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "dateStart": "2026-03-20T18:13:22.000Z",
+      "dateEnd": "2026-03-20T20:19:26.000Z",
+      "dateLabel": "20/03/2026 18:13:22 - 20/03/2026 20:19:26",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260320-181322-eekv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260320-064005-z4dt",
       "title": "Me My Clones And I, Prof Toc, Speedy Morales",
       "commanders": [
