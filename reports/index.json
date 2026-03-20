@@ -1,10 +1,40 @@
 {
   "siteTheme": {
-    "ui": "modern",
+    "ui": "classic",
     "paletteId": "Dark Pearl",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260320-064005-z4dt",
+      "title": "Me My Clones And I, Prof Toc, Speedy Morales",
+      "commanders": [
+        "Me My Clones And I",
+        "Prof Toc",
+        "Speedy Morales"
+      ],
+      "dateStart": "2026-03-20T06:40:05.000Z",
+      "dateEnd": "2026-03-20T20:19:26.000Z",
+      "dateLabel": "20/03/2026 06:40:05 - 20/03/2026 20:19:26",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260320-064005-z4dt",
+      "summary": {
+        "borderlandsPct": 0.5869565217391305,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20260318-191537-5nzy",
       "title": "Just Mad N Fluffy",
