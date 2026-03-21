@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260321-183217-gfzp",
+      "title": "Serial Pinkshot",
+      "commanders": [
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-03-21T18:32:17.000Z",
+      "dateEnd": "2026-03-21T20:31:36.000Z",
+      "dateLabel": "21/03/2026 18:32:17 - 21/03/2026 20:31:36",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260321-183217-gfzp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260320-181322-jwg6",
       "title": "Me My Clones And I",
       "commanders": [
