@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260328-193726-xdy0",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-03-28T18:37:26.000Z",
+      "dateEnd": "2026-03-28T20:31:41.000Z",
+      "dateLabel": "28/03/2026 19:37:26 - 28/03/2026 21:31:41",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260328-193726-xdy0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260325-200930-7rcj",
       "title": "Revana Jötunnbane",
       "commanders": [
