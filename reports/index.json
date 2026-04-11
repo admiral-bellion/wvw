@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260411-185533-q0yw",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-04-11T17:55:33.000Z",
+      "dateEnd": "2026-04-11T19:18:25.000Z",
+      "dateLabel": "11/04/2026 18:55:33 - 11/04/2026 20:18:25",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260411-185533-q0yw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260408-191213-qq95",
       "title": "Yoloola",
       "commanders": [
