@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260415-193115-tt2g",
+      "title": "Yoloola",
+      "commanders": [
+        "Yoloola"
+      ],
+      "dateStart": "2026-04-15T18:31:15.000Z",
+      "dateEnd": "2026-04-15T20:04:51.000Z",
+      "dateLabel": "15/04/2026 19:31:15 - 15/04/2026 21:04:51",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260415-193115-tt2g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20260415-192224-kyjj",
       "title": "Yoloola",
