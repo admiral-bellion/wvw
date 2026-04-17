@@ -1,7 +1,35 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "rose-pink",
   "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260417-190935-iw1u",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-04-17T18:09:35.000Z",
+      "dateEnd": "2026-04-17T19:54:59.000Z",
+      "dateLabel": "17/04/2026 19:09:35 - 17/04/2026 20:54:59",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260417-190935-iw1u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20260415-193115-tt2g",
       "title": "Yoloola",
