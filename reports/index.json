@@ -3,6 +3,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260418-195042-z8nm",
+      "title": "Dalaxis, Serial Pinkshot",
+      "commanders": [
+        "Dalaxis",
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-04-18T18:50:42.000Z",
+      "dateEnd": "2026-04-18T19:32:45.000Z",
+      "dateLabel": "18/04/2026 19:50:42 - 18/04/2026 20:32:45",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260418-195042-z8nm",
+      "summary": {
+        "borderlandsPct": 0.59375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260418-101009-f4pv",
       "title": "Garage En Résine",
       "commanders": [
