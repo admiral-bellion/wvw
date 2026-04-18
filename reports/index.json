@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260418-101009-f4pv",
+      "title": "Garage En Résine",
+      "commanders": [
+        "Garage En Résine"
+      ],
+      "dateStart": "2026-04-18T09:10:09.000Z",
+      "dateEnd": "2026-04-18T09:53:09.000Z",
+      "dateLabel": "18/04/2026 10:10:09 - 18/04/2026 10:53:09",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260418-101009-f4pv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260417-190935-iw1u",
       "title": "Just Mad N Fluffy",
       "commanders": [
