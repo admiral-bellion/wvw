@@ -3,6 +3,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-192311-m47t",
+      "title": "Serial Pinkshot, Serial The Clicker",
+      "commanders": [
+        "Serial Pinkshot",
+        "Serial The Clicker"
+      ],
+      "dateStart": "2026-04-25T18:23:11.000Z",
+      "dateEnd": "2026-04-25T19:42:19.000Z",
+      "dateLabel": "25/04/2026 19:23:11 - 25/04/2026 20:42:19",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260425-192311-m47t",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260422-181104-2y7h",
       "title": "Garage En Résine, Yoloola",
       "commanders": [
