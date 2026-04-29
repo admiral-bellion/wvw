@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260429-190807-4cbv",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-04-29T18:08:07.000Z",
+      "dateEnd": "2026-04-29T19:57:00.000Z",
+      "dateLabel": "29/04/2026 19:08:07 - 29/04/2026 20:57:00",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260429-190807-4cbv",
+      "summary": {
+        "borderlandsPct": 0.95,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260425-192311-ue5q",
       "title": "Serial Pinkshot, Serial The Clicker",
       "commanders": [
