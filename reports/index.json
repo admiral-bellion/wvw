@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-200622-q1jt",
+      "title": "Mon Mariachi",
+      "commanders": [
+        "Mon Mariachi"
+      ],
+      "dateStart": "2026-05-01T19:06:22.000Z",
+      "dateEnd": "2026-05-01T20:15:56.000Z",
+      "dateLabel": "01/05/2026 20:06:22 - 01/05/2026 21:15:56",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260501-200622-q1jt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260429-190807-4cbv",
       "title": "Sarah Carigan",
       "commanders": [
