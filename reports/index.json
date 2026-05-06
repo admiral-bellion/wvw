@@ -1,7 +1,36 @@
 {
   "colorPalette": "amber-warm",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260506-191724-cesh",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-05-06T18:17:24.000Z",
+      "dateEnd": "2026-05-06T19:55:42.000Z",
+      "dateLabel": "06/05/2026 19:17:24 - 06/05/2026 20:55:42",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260506-191724-cesh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 40
+      }
+    },
     {
       "id": "20260502-183927-l8l3",
       "title": "Dalaxis",
