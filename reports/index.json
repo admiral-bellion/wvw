@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-191403-6gms",
+      "title": "Sarah Carigan, Strádùs",
+      "commanders": [
+        "Sarah Carigan",
+        "Strádùs"
+      ],
+      "dateStart": "2026-05-22T18:14:03.000Z",
+      "dateEnd": "2026-05-22T19:49:39.000Z",
+      "dateLabel": "22/05/2026 19:14:03 - 22/05/2026 20:49:39",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260522-191403-6gms",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260506-191724-cesh",
       "title": "Sarah Carigan",
       "commanders": [
