@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260527-190453-593y",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-05-27T18:04:53.000Z",
+      "dateEnd": "2026-05-27T19:44:40.000Z",
+      "dateLabel": "27/05/2026 19:04:53 - 27/05/2026 20:44:40",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260527-190453-593y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260523-183710-3isi",
       "title": "Serial Pinkshot",
       "commanders": [
