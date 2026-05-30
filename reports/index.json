@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-195402-aqud",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "dateStart": "2026-05-30T18:54:02.000Z",
+      "dateEnd": "2026-05-30T19:56:42.000Z",
+      "dateLabel": "30/05/2026 19:54:02 - 30/05/2026 20:56:42",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260530-195402-aqud",
+      "summary": {
+        "borderlandsPct": 0.6923076923076923,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260527-190453-593y",
       "title": "Sarah Carigan",
       "commanders": [
