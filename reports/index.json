@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-195234-vsq6",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-05-31T18:52:34.000Z",
+      "dateEnd": "2026-05-31T20:03:30.000Z",
+      "dateLabel": "31/05/2026 19:52:34 - 31/05/2026 21:03:30",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260531-195234-vsq6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260530-195402-aqud",
       "title": "Me My Clones And I",
       "commanders": [
