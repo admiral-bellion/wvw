@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-191240-284g",
+      "title": "Svart Hámar",
+      "commanders": [
+        "Svart Hámar"
+      ],
+      "dateStart": "2026-06-01T18:12:40.000Z",
+      "dateEnd": "2026-06-01T19:45:48.000Z",
+      "dateLabel": "01/06/2026 19:12:40 - 01/06/2026 20:45:48",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260601-191240-284g",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260531-195234-vsq6",
       "title": "Just Mad N Fluffy",
       "commanders": [
