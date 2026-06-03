@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260603-190456-wvsl",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-06-03T18:04:56.000Z",
+      "dateEnd": "2026-06-03T19:15:58.000Z",
+      "dateLabel": "03/06/2026 19:04:56 - 03/06/2026 20:15:58",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260603-190456-wvsl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260601-191240-284g",
       "title": "Svart Hámar",
       "commanders": [
