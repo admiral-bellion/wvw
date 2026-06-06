@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-184020-yjwt",
+      "title": "Sarah Carigan, Serial Attuned",
+      "commanders": [
+        "Sarah Carigan",
+        "Serial Attuned"
+      ],
+      "dateStart": "2026-06-06T17:40:20.000Z",
+      "dateEnd": "2026-06-06T19:23:22.000Z",
+      "dateLabel": "06/06/2026 18:40:20 - 06/06/2026 20:23:22",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260606-184020-yjwt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260603-190456-wvsl",
       "title": "Sarah Carigan",
       "commanders": [
