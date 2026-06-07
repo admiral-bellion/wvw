@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260607-132221-b5ak",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "dateStart": "2026-06-07T12:22:21.000Z",
+      "dateEnd": "2026-06-07T14:18:47.000Z",
+      "dateLabel": "07/06/2026 13:22:21 - 07/06/2026 15:18:47",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260607-132221-b5ak",
+      "summary": {
+        "borderlandsPct": 0.8157894736842105,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 31,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260606-184020-yjwt",
       "title": "Sarah Carigan, Serial Attuned",
       "commanders": [
