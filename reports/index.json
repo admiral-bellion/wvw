@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260610-195738-ub1f",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-06-10T18:57:38.000Z",
+      "dateEnd": "2026-06-10T20:03:05.000Z",
+      "dateLabel": "10/06/2026 19:57:38 - 10/06/2026 21:03:05",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260610-195738-ub1f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 31,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260607-132221-b5ak",
       "title": "Me My Clones And I",
       "commanders": [
