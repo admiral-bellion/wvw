@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-203321-2v16",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-06-12T19:33:21.000Z",
+      "dateEnd": "2026-06-12T21:00:25.000Z",
+      "dateLabel": "12/06/2026 20:33:21 - 12/06/2026 22:00:25",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260612-203321-2v16",
+      "summary": {
+        "borderlandsPct": 0.7058823529411765,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260610-195738-ub1f",
       "title": "Sarah Carigan",
       "commanders": [
