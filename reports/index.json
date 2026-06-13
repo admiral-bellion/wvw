@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-203023-n216",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-06-13T19:30:23.000Z",
+      "dateEnd": "2026-06-13T20:04:15.000Z",
+      "dateLabel": "13/06/2026 20:30:23 - 13/06/2026 21:04:15",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260613-203023-n216",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260612-203321-2v16",
       "title": "Just Mad N Fluffy",
       "commanders": [
