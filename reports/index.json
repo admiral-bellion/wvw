@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-192548-p8ni",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-06-14T18:25:48.000Z",
+      "dateEnd": "2026-06-14T20:29:29.000Z",
+      "dateLabel": "14/06/2026 19:25:48 - 14/06/2026 21:29:29",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260614-192548-p8ni",
+      "summary": {
+        "borderlandsPct": 0.07894736842105263,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260613-203023-n216",
       "title": "Dalaxis",
       "commanders": [
