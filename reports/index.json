@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-185855-sm19",
+      "title": "Tybalt Oakenshield",
+      "commanders": [
+        "Tybalt Oakenshield"
+      ],
+      "dateStart": "2026-06-16T17:58:55.000Z",
+      "dateEnd": "2026-06-16T19:26:18.000Z",
+      "dateLabel": "16/06/2026 18:58:55 - 16/06/2026 20:26:18",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260616-185855-sm19",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260614-192548-p8ni",
       "title": "Just Mad N Fluffy",
       "commanders": [
