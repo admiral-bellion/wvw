@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260622-192927-dcoa",
+      "title": "Serial Sugar Daddy",
+      "commanders": [
+        "Serial Sugar Daddy"
+      ],
+      "dateStart": "2026-06-22T18:29:27.000Z",
+      "dateEnd": "2026-06-22T19:24:19.000Z",
+      "dateLabel": "22/06/2026 19:29:27 - 22/06/2026 20:24:19",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260622-192927-dcoa",
+      "summary": {
+        "borderlandsPct": 0.8055555555555556,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260616-185855-sm19",
       "title": "Tybalt Oakenshield",
       "commanders": [
