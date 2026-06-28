@@ -1,8 +1,31 @@
 {
   "colorPalette": "amber-warm",
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "glassmorphic": true,
   "entries": [
+    {
+      "id": "20260627-185417-u8a6",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-06-27T17:54:17.000Z",
+      "dateEnd": "2026-06-27T19:39:56.000Z",
+      "dateLabel": "27/06/2026 18:54:17 - 27/06/2026 20:39:56",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260627-185417-u8a6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 16
+      }
+    },
     {
       "id": "20260622-192927-dcoa",
       "title": "Serial Sugar Daddy",
