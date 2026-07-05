@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260705-191144-4b43",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "dateStart": "2026-07-05T18:11:44.000Z",
+      "dateEnd": "2026-07-05T20:12:05.000Z",
+      "dateLabel": "05/07/2026 19:11:44 - 05/07/2026 21:12:05",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260705-191144-4b43",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260701-190923-1rb0",
       "title": "Grabnebelfûrstin",
       "commanders": [
