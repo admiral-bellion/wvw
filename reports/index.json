@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260706-195018-ni1e",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "dateStart": "2026-07-06T18:50:18.000Z",
+      "dateEnd": "2026-07-06T19:25:51.000Z",
+      "dateLabel": "06/07/2026 19:50:18 - 06/07/2026 20:25:51",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260706-195018-ni1e",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260705-191144-4b43",
       "title": "Me My Clones And I",
       "commanders": [
