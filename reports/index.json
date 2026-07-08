@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260708-191936-gzlf",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-07-08T18:19:36.000Z",
+      "dateEnd": "2026-07-08T19:15:14.000Z",
+      "dateLabel": "08/07/2026 19:19:36 - 08/07/2026 20:15:14",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260708-191936-gzlf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260706-195018-ni1e",
       "title": "Flowsn",
       "commanders": [
