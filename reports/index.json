@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260710-193635-hjne",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-07-10T18:36:35.000Z",
+      "dateEnd": "2026-07-10T19:57:59.000Z",
+      "dateLabel": "10/07/2026 19:36:35 - 10/07/2026 20:57:59",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260710-193635-hjne",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260708-191936-gzlf",
       "title": "Sarah Carigan",
       "commanders": [
