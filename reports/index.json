@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260711-200222-u4po",
+      "title": "Serial Pinkshot",
+      "commanders": [
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-07-11T19:02:22.000Z",
+      "dateEnd": "2026-07-11T20:06:43.000Z",
+      "dateLabel": "11/07/2026 20:02:22 - 11/07/2026 21:06:43",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260711-200222-u4po",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 43,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260710-193635-hjne",
       "title": "Just Mad N Fluffy",
       "commanders": [
