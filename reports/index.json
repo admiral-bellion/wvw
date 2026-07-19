@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260719-164039-27dr",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-07-19T15:40:39.000Z",
+      "dateEnd": "2026-07-19T16:44:28.000Z",
+      "dateLabel": "19/07/2026 16:40:39 - 19/07/2026 17:44:28",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260719-164039-27dr",
+      "summary": {
+        "borderlandsPct": 0.43478260869565216,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260718-193513-3iaa",
       "title": "Flowsn",
       "commanders": [
