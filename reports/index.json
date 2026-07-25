@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260724-193156-8fhx",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-07-24T18:31:56.000Z",
+      "dateEnd": "2026-07-24T19:55:28.000Z",
+      "dateLabel": "24/07/2026 19:31:56 - 24/07/2026 20:55:28",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260724-193156-8fhx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260719-164039-27dr",
       "title": "Just Mad N Fluffy",
       "commanders": [
