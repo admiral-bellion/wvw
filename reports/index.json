@@ -4,6 +4,40 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260728-194337-txxs",
+      "title": "Phenom I, Tybalt Oakenshield",
+      "commanders": [
+        "Phenom I",
+        "Tybalt Oakenshield"
+      ],
+      "dateStart": "2026-07-28T18:43:37.000Z",
+      "dateEnd": "2026-07-28T20:02:41.000Z",
+      "dateLabel": "28/07/2026 19:43:37 - 28/07/2026 21:02:41",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260728-194337-txxs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260725-190714-zm3s",
       "title": "Flowsn",
       "commanders": [
