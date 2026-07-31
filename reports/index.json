@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260731-201806-bowm",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-07-31T19:18:06.000Z",
+      "dateEnd": "2026-07-31T20:00:39.000Z",
+      "dateLabel": "31/07/2026 20:18:06 - 31/07/2026 21:00:39",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260731-201806-bowm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260729-193739-jmnb",
       "title": "Sarah Carigan",
       "commanders": [
