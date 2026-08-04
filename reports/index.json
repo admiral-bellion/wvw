@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260804-193914-itt0",
+      "title": "Tybalt Oakenshield",
+      "commanders": [
+        "Tybalt Oakenshield"
+      ],
+      "guild": {
+        "id": "F8E791D2-9E6B-EB11-81B7-C3B1C0E42B51",
+        "name": "Beyond The Aurora",
+        "tag": "ARTS"
+      },
+      "dateStart": "2026-08-04T18:39:14.000Z",
+      "dateEnd": "2026-08-04T19:35:32.000Z",
+      "dateLabel": "04/08/2026 19:39:14 - 04/08/2026 20:35:32",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260804-193914-itt0",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260801-192028-xeds",
       "title": "Pam Oakenshield, Sarah Carigan",
       "commanders": [
