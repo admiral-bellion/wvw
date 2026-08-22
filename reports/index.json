@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260822-192013-18t4",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-08-22T18:20:13.000Z",
+      "dateEnd": "2026-08-22T19:35:16.817Z",
+      "dateLabel": "22/08/2026 19:20:13 - 22/08/2026 20:35:16",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260822-192013-18t4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260812-192913-w8yn",
       "title": "Sarah Carigan",
       "commanders": [
