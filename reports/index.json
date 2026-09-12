@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260912-183138-1ttq",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-09-12T17:31:38.000Z",
+      "dateEnd": "2026-09-12T18:38:02.231Z",
+      "dateLabel": "12/09/2026 18:31:38 - 12/09/2026 19:38:02",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260912-183138-1ttq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260910-184243-8ecd",
       "title": "Flowsn",
       "commanders": [
