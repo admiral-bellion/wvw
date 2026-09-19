@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260919-184110-f9ek",
+      "title": "Serial Attuned",
+      "commanders": [
+        "Serial Attuned"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-09-19T17:41:10.000Z",
+      "dateEnd": "2026-09-19T19:19:30.431Z",
+      "dateLabel": "19/09/2026 18:41:10 - 19/09/2026 20:19:30",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20260919-184110-f9ek",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260913-101153-tnq9",
       "title": "Me My Clones And I",
       "commanders": [
