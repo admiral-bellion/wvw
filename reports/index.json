@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261017-175418-379w",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-10-17T17:54:18.000Z",
+      "dateEnd": "2026-10-17T19:02:25.166Z",
+      "dateLabel": "17/10/2026 17:54:18 - 17/10/2026 19:02:25",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20261017-175418-379w",
+      "publishedBy": "admiral-bellion",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 39,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20261011-181436-0hp3",
       "title": "Serial Pinkshot, Serial Sugar Daddy",
