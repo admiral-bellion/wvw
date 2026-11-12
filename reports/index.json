@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.23.0"
   },
   "entries": [
+    {
+      "id": "20261111-190352-6faw",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "guild": {
+        "id": "F8E791D2-9E6B-EB11-81B7-C3B1C0E42B51",
+        "name": "Beyond The Aurora",
+        "tag": "ARTS"
+      },
+      "dateStart": "2026-11-11T19:03:52.000Z",
+      "dateEnd": "2026-11-11T20:36:09.877Z",
+      "dateLabel": "11/11/2026 19:03:52 - 11/11/2026 20:36:09",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20261111-190352-6faw",
+      "publishedBy": "admiral-bellion",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 25,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20261017-175418-379w",
       "title": "Flowsn",
