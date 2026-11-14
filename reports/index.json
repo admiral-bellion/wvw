@@ -5,9 +5,39 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261113-181642-xy87",
+      "title": "Mr Bobbels, Salem Engi",
+      "commanders": [
+        "Mr Bobbels",
+        "Salem Engi"
+      ],
+      "guild": {
+        "id": "B65DAD56-25FB-EE11-BA1F-06F2763BE7D0",
+        "name": "Ruthless Division",
+        "tag": "RD"
+      },
+      "dateStart": "2026-11-13T18:16:42.000Z",
+      "dateEnd": "2026-11-13T18:40:23.332Z",
+      "dateLabel": "13/11/2026 18:16:42 - 13/11/2026 18:40:23",
+      "url": "https://admiral-bellion.github.io/wvw/?report=20261113-181642-xy87",
+      "publishedBy": "admiral-bellion",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 40
+      }
+    },
     {
       "id": "20261111-190352-6faw",
       "title": "Sarah Carigan",
